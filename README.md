@@ -19,6 +19,8 @@ https://digitalinnovation.one
 * Módulos, importação de classes e funções anônimas (lambda).
 * Trabalho com arquivos externos.
 * Informações de data e hora.
+* Gerenciamento e criação de exceções.
+* Instalação e uso de pacotes (requisição com requests)
 -------------
 
 ### Exemplo 1 - Python　
