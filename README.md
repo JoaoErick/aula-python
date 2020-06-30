@@ -3,7 +3,7 @@ Conteúdo introdutório à linguagem Python desenvolvido através do acompanhame
 https://digitalinnovation.one    
 
 ![](https://www.it-akademija.com/cms/mestoZaUploadFajlove/Python_tekst_logo_.jpg)
-> Fonte: Developer News (2020)  
+> Fonte: ITACADEMY (2020)  
 -------------
 
 ### Conteúdos Abordados 
