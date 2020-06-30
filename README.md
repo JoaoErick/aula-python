@@ -2,7 +2,7 @@
 Conteúdo introdutório à linguagem Python desenvolvido através do acompanhamento das aulas disponibilizadas pela Digital Innovation One juntamente com o professor Rafael Galleani (Líder Técnico na Global Hitss).  
 https://digitalinnovation.one    
 
-![](https://lh3.googleusercontent.com/proxy/9BsThedoq7SZSb2bzcWN7ZRJAVkcLDLuSyg2EQYy24jfjky_QXgaFSpv1QObY5-V9PbcSUHBIN7c9Y0CnRo4j8rWz03lVUyoLgnOjQIBvNDvlt7byXtnB0RH1nMiAuzd)
+![](https://www.it-akademija.com/cms/mestoZaUploadFajlove/Python_tekst_logo_.jpg)
 > Fonte: Developer News (2020)  
 -------------
 
